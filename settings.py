@@ -10,7 +10,7 @@ class Settings():
         self.bg_color = (230, 230, 230)
         # 外星人设置
         self.alien_speed_factor = 1
-        self.fleet.drop_speed = 10
+        self.fleet_drop_speed = 10
         # fleet_direction 为1 表示向右移，为-1 向左
         self.fleet_direction = 1
 
